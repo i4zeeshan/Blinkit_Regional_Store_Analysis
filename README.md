@@ -41,5 +41,5 @@ The regional sales analysis of Blinkit's outlets yields several critical takeawa
 * **Expansion Anomalies Decoded:** The apparent $30\%$ revenue spike in **2018** followed by a sharp drop in **2020** was an asset-driven anomaly rather than a shift in consumer demand baseline. In 2018, the business doubled its physical deployment pace by launching **2 outlets simultaneously**, whereas all other operational years only established a single facility. 
 
 ### Recommendations
-1. **Optimize Hyper-Local Visibility:** Leverage the compact format of **Grocery Stores** in dense urban tiers. Their small real estate footprint yields maximum product visibility index scores while matching the ticket sizes of large supermarkets.
+1. **Optimize Local Visibility:** Leverage the compact format of **Grocery Stores** in dense urban tiers. Their small real estate footprint yields maximum product visibility index scores while matching the ticket sizes of large supermarkets.
 2. **Replicate Tier 3 Diversification:** Future expansion models into Tier 1 and Tier 2 spaces should abandon uniform store layouts. Instead, replicate the Tier 3 model by mixing standard supermarkets with small format grocery systems to capture both impulse and planned household shopping trips.
