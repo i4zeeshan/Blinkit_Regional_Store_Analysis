@@ -23,6 +23,11 @@ The Regional Sales manager of Blinkit Commerce Private Limited wants to now the 
 
 <img width="2559" height="1356" alt="Screenshot 2026-05-27 175341" src="https://github.com/user-attachments/assets/12bb5117-2283-49da-ba11-07435fe9e64d" />
 
+## Tools Used
+- Excel - For Data Cleaning
+- Power BI - For Data Visualization
+- MS Excel - For Drafting project Report
+
 ## Project Insights
 - <a href="https://github.com/i4zeeshan/Blinkit_Regional_Store_Analysis/blob/master/Project%20Report.pdf">Project Report</a>
 
